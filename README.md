@@ -54,3 +54,5 @@ I haven't created a model yet because the dataset is sparse and many feature val
 Whatever the reason, I think it was a clever move to filter applications.
 
 
+## Bonus
+I appreciate the opportunity to explore the use of AI for enhancing student outcomes. This assignment has inspired additional ideas that I can either collaborate with you on if selected or develop independently for my own project.
